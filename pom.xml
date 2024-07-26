@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.sreenutech</groupId>
-	<artifactId>rewards-service</artifactId>
+	<artifactId>rewards-info-service-testing</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>rewards-service</name>
 	<description>Spring Boot Restfull apis for reward service</description>
